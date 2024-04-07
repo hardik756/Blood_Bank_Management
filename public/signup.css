@@ -1,0 +1,55 @@
+body {
+    background-color:rgb(235, 50, 50);
+}
+
+.email{ 
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+.fill_form{
+    position:absolute;
+    top: 30%;
+    left: 40%;
+    height:5000 px;
+    width:320px;
+    background-color: white;
+    border-color: black;
+    border-radius:5px;
+}
+.pwd{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.btn{
+    margin-left:33%;
+    margin-bottom:50px ;
+    margin-top: 7px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: large;
+}
+label {
+    width:180px;
+    clear:left;
+    text-align:center;
+    padding-right:10px;
+}
+
+input, label {
+    float:left;
+    margin-bottom: 5px;
+    margin-left:15%;
+    font-size: large;
+}
+.oval{
+    margin-left: 75px;
+    text-align: center;
+    color:white;
+    background-color:rgb(184, 12, 12);;
+    height:40px;
+    width:165px;
+    border-radius: 50%;
+}

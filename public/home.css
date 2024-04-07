@@ -1,0 +1,74 @@
+body{
+    background-color:rgb(235, 50, 50);
+}
+.banner{
+    position:absolute;
+    width:650px;
+    height:60px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 70px;
+    margin-left: 350px;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.setup{
+    a{
+        border-radius: 10px;
+        margin-right: 8px;
+        margin-top:10px;
+    }
+    a:link, a:visited {
+        background-color: white;
+        color: gray;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }     
+    a:hover, a:active {
+        background-color: green;
+    }
+}
+.cen{
+    margin-top: 110px;
+    margin-left: 620px;
+    font-size: larger;
+    a{
+        border-radius: 10px;
+        margin-right: 8px;
+        margin-top:10px;
+    }
+    a:link, a:visited {
+        background-color: red;
+        color: whitesmoke;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }     
+    a:hover, a:active {
+        background-color: green;
+    }
+}
+.hist{
+    margin-left: 10px;
+    a{
+        border-radius: 10px;
+        margin-right: 8px;
+        margin-top:10px;
+    }
+    a:link, a:visited {
+        background-color: blueviolet;
+        color: whitesmoke;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }     
+    a:hover, a:active {
+        background-color: green;
+    }
+}
